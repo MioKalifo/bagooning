@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/9d/ee/07/9dee0784390c4d041be8473887a304cc.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    margin: none;
+    background-position: center;
+    }
+
+
+.bouton {
+background-color: rgb(105, 138, 68);
+border: none;
+color: white;
+padding: 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+border-radius: 0rem;
+
+
+}
